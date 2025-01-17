@@ -1,0 +1,1 @@
+insert into Proveedores VALUES ('Coca Cola', '8095814785', 'Proceres', 'Mani')
